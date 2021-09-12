@@ -1,3 +1,3 @@
 # Java-ProyectoPropio2
-Es una aplicación, con MVC, de una simulación de una instiución educativa con interfaz gráfica JavaSwing, JDBC y persistencia de datos con mySql
-Usuario: programacion , contraseña: prog2
+An MVC application with Java Ant, JDBC, MySql and Swing GUI. It is a simulation of an educational institution with different functions.
+user: programacion, password: prog2
