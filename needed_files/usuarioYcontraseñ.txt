@@ -1,2 +1,0 @@
-usuario: programacion
-contraseña: prog2
